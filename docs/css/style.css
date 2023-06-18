@@ -1,0 +1,76 @@
+.chagas-brasao {
+   max-width: 150px!important;
+}
+
+.chagas-tipo-senha {
+    font-size: 1rem!important;
+    color: #a08a43!important;
+}
+
+.chagas-maximizar-botao {
+    width: 100%!important;
+}
+
+.chagas-margem-login {
+    margin-top: 3rem;
+}
+.input-field input[type=text]:focus + label {
+    color: #c9a11e!important;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #c9a11e!important;
+    box-shadow: 0 1px 0 0 #c9a11e!important;
+}
+
+.input-field input[type=text].valid {
+    border-bottom: 1px solid #c9a11e;
+    box-shadow: 0 1px 0 0 #c9a11e;
+}
+
+.input-field input[type=password].valid {
+    border-bottom: 1px solid #c9a11e;
+    box-shadow: 0 1px 0 0 #c9a11e;
+}
+
+.input-field input[type=password]:focus + label {
+    color: #c9a11e!important;
+}
+
+.input-field input[type=password]:focus {
+    border-bottom: 1px solid #c9a11e!important;
+    box-shadow: 0 1px 0 0 #c9a11e!important;
+}
+.input-field input[type=email].valid {
+    border-bottom: 1px solid #c9a11e;
+    box-shadow: 0 1px 0 0 #c9a11e;
+}
+
+.input-field input[type=email]:focus + label {
+    color: #c9a11e!important;
+}
+
+.input-field input[type=email]:focus {
+    border-bottom: 1px solid #c9a11e!important;
+    box-shadow: 0 1px 0 0 #c9a11e!important;
+}
+body {
+    background-image: url(/images/fundo.png);
+}
+.chagas-aviso-personalizavel { 
+    color: #fff;
+    font-weight: 500;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.chagas-botao-missao {
+    align-items: center;
+    text-align: center;
+    background-color: #5a5a5a!important;
+    color: #ffff!important;
+}
+.chagas-brasao-distintivo {
+    z-index: 999;
+    max-width: 100px!important;
+    margin-bottom: -9%;
+}
+
